@@ -3,4 +3,6 @@ numpy
 python-opencv
 streamlit
 cv2
+PIL
+
 
