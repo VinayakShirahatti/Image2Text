@@ -2,4 +2,5 @@ pytesseract
 numpy
 python-opencv
 streamlit
+cv2
 
